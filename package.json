@@ -22,7 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://emerymoriconi.github.io/portfolio",
+  "homepage": "https://emerymoriconi.github.io/meu-portfolio",
   "eslintConfig": {
     "extends": [
       "react-app",
